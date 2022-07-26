@@ -1,4 +1,4 @@
-Match Number,Runs,Cumulative Runs,Batting Average,Result,Opposition,Ground,Year,Date of Match,ODI Number
+MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,DateofMatch,ODINumber
 1,0,0,0,lost,v Pakistan,Gujranwala,1989,18-Dec-89,ODI # 593
 2,0,0,0,lost,v New Zealand,Dunedin,1990,1-Mar-90,ODI # 612
 3,36,36,12,won,v New Zealand,Wellington,1990,6-Mar-90,ODI # 616
