@@ -304,7 +304,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 302,1,11546,43.73,lost,v New Zealand,Hamilton,2003,14-Jan-03,ODI # 1935
 303,52,11598,43.76,won,v Netherlands,Paarl,2003,12-Feb-03,ODI # 1948
 304,36,11634,43.73,lost,v Australia,Centurion,2003,15-Feb-03,ODI # 1951
-305,-,11715,43.87,won,v Zimbabwe,Harare,2003,19-Feb-03,ODI # 1957
+305,81,11715,43.87,won,v Zimbabwe,Harare,2003,19-Feb-03,ODI # 1957
 306,152,11867,44.27,won,v Namibia,Pietermaritzburg,2003,23-Feb-03,ODI # 1964
 307,50,11917,44.3,won,v England,Durban,2003,26-Feb-03,ODI # 1969
 308,98,12015,44.5,won,v Pakistan,Centurion,2003,1-Mar-03,ODI # 1975
