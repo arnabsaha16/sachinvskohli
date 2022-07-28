@@ -9,7 +9,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 8,36,152,19,won,v Sri Lanka,Nagpur,1990,1-Dec-90,ODI # 644
 9,53,205,22.77,won,v Sri Lanka,Pune,1990,5-Dec-90,ODI # 646
 10,30,235,23.5,lost,v Sri Lanka,Margao,1990,8-Dec-90,ODI # 648
-11,DNB,235,23.5,won,v Bangladesh,Chandigarh,1990,25-Dec-90,ODI # 657
+11,0,235,23.5,won,v Bangladesh,Chandigarh,1990,25-Dec-90,ODI # 657
 12,4,239,21.72,lost,v Sri Lanka,Cuttack,1990,28-Dec-90,ODI # 658
 13,53,292,24.33,won,v Sri Lanka,Kolkata,1991,4-Jan-91,ODI # 661
 14,52,344,28.66,won,v Pakistan,Sharjah,1991,18-Oct-91,ODI # 680
@@ -20,7 +20,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 19,62,488,30.5,won,v South Africa,Kolkata,1991,10-Nov-91,ODI # 686
 20,4,492,28.94,won,v South Africa,Gwalior,1991,12-Nov-91,ODI # 687
 21,1,493,27.38,lost,v South Africa,New Delhi,1991,14-Nov-91,ODI # 688
-22,1,494,26,tied,v West Indies,Perth,1991,6-Dec-91,ODI # 692
+22,1,494,26,ied,v West Indies,Perth,1991,6-Dec-91,ODI # 692
 23,36,530,26.5,won,v Australia,Perth,1991,8-Dec-91,ODI # 693
 24,57,587,27.95,lost,v Australia,Hobart,1991,10-Dec-91,ODI # 694
 25,48,635,28.86,won,v West Indies,Adelaide,1991,14-Dec-91,ODI # 696
@@ -31,7 +31,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 30,4,825,31.73,lost,v Australia,Melbourne,1992,18-Jan-92,ODI # 709
 31,69,894,33.11,lost,v Australia,Sydney,1992,20-Jan-92,ODI # 711
 32,35,929,33.17,lost,v England,Perth,1992,22-Feb-92,ODI # 715
-33,DNB,929,33.17,n/r,v Sri Lanka,Mackay,1992,28-Feb-92,ODI # 722
+33,0,929,33.17,no result,v Sri Lanka,Mackay,1992,28-Feb-92,ODI # 722
 34,11,940,32.41,lost,v Australia,Brisbane,1992,1-Mar-92,ODI # 725
 35,54,994,34.27,won,v Pakistan,Sydney,1992,4-Mar-92,ODI # 729
 36,81,1075,35.83,won,v Zimbabwe,Hamilton,1992,7-Mar-92,ODI # 732
@@ -54,13 +54,13 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 52,34,1509,32.8,won,v England,Gwalior,1993,5-Mar-93,ODI # 814
 53,3,1512,32.17,won,v Zimbabwe,Faridabad,1993,19-Mar-93,ODI # 817
 54,8,1520,32.34,won,v Zimbabwe,Guwahati,1993,22-Mar-93,ODI # 820
-55,DNB,1520,32.34,won,v Zimbabwe,Pune,1993,25-Mar-93,ODI # 823
+55,0,1520,32.34,won,v Zimbabwe,Pune,1993,25-Mar-93,ODI # 823
 56,21,1541,32.1,won,v Sri Lanka,Colombo (RPS),1993,25-Jul-93,ODI # 833
 57,15,1556,31.75,lost,v Sri Lanka,Colombo (RPS),1993,12-Aug-93,ODI # 834
 58,25,1581,31.62,lost,v Sri Lanka,Moratuwa,1993,14-Aug-93,ODI # 835
 59,26,1607,32.14,won,v Sri Lanka,Kanpur,1993,7-Nov-93,ODI # 846
 60,2,1609,31.54,lost,v West Indies,Ahmedabad,1993,16-Nov-93,ODI # 851
-61,24,1633,31.4,tied,v Zimbabwe,Indore,1993,18-Nov-93,ODI # 852
+61,24,1633,31.4,ied,v Zimbabwe,Indore,1993,18-Nov-93,ODI # 852
 62,3,1636,30.86,won,v South Africa,Mohali,1993,22-Nov-93,ODI # 855
 63,15,1651,30.57,won,v South Africa,Kolkata,1993,24-Nov-93,ODI # 856
 64,28,1679,31.09,won,v West Indies,Kolkata,1993,27-Nov-93,ODI # 858
@@ -75,7 +75,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 73,73,2079,33.53,lost,v Pakistan,Sharjah,1994,15-Apr-94,ODI # 906
 74,6,2085,33.09,won,v Australia,Sharjah,1994,19-Apr-94,ODI # 910
 75,24,2109,32.95,lost,v Pakistan,Sharjah,1994,22-Apr-94,ODI # 912
-76,11,2120,33.12,n/r,v Sri Lanka,Colombo (RPS),1994,4-Sep-94,ODI # 921
+76,11,2120,33.12,no result,v Sri Lanka,Colombo (RPS),1994,4-Sep-94,ODI # 921
 77,6,2126,32.7,lost,v Sri Lanka,Colombo (RPS),1994,5-Sep-94,ODI # 922
 78,110,2236,33.87,won,v Australia,Colombo (RPS),1994,9-Sep-94,ODI # 924
 79,0,2236,33.37,won,v Sri Lanka,Colombo (SSC),1994,17-Sep-94,ODI # 927
@@ -115,17 +115,17 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 113,118,3984,40.24,won,v Pakistan,Sharjah,1996,15-Apr-96,ODI # 1098
 114,17,4001,40.01,lost,v South Africa,Sharjah,1996,17-Apr-96,ODI # 1100
 115,57,4058,40.17,lost,v South Africa,Sharjah,1996,19-Apr-96,ODI # 1101
-116,30,4088,40.07,n/r,v England,The Oval,1996,23-May-96,ODI # 1102
+116,30,4088,40.07,no result,v England,he Oval,1996,23-May-96,ODI # 1102
 117,6,4094,39.74,lost,v England,Leeds,1996,25-May-96,ODI # 1103
 118,1,4095,39.37,lost,v England,Manchester,1996,26-May-96,ODI # 1104
 119,110,4205,40.04,lost,v Sri Lanka,Colombo (RPS),1996,28-Aug-96,ODI # 1106
 120,40,4245,40.04,won,v Zimbabwe,Colombo (SSC),1996,1-Sep-96,ODI # 1110
 121,7,4252,39.73,lost,v Australia,Colombo (SSC),1996,6-Sep-96,ODI # 1113
-122,89,4341,40.57,won,v Pakistan,Toronto,1996,16-Sep-96,ODI # 1115
-123,20,4361,40.37,lost,v Pakistan,Toronto,1996,17-Sep-96,ODI # 1116
-124,2,4363,40.02,won,v Pakistan,Toronto,1996,18-Sep-96,ODI # 1117
-125,3,4366,39.69,lost,v Pakistan,Toronto,1996,21-Sep-96,ODI # 1118
-126,23,4389,39.54,lost,v Pakistan,Toronto,1996,23-Sep-96,ODI # 1119
+122,89,4341,40.57,won,v Pakistan,oronto,1996,16-Sep-96,ODI # 1115
+123,20,4361,40.37,lost,v Pakistan,oronto,1996,17-Sep-96,ODI # 1116
+124,2,4363,40.02,won,v Pakistan,oronto,1996,18-Sep-96,ODI # 1117
+125,3,4366,39.69,lost,v Pakistan,oronto,1996,21-Sep-96,ODI # 1118
+126,23,4389,39.54,lost,v Pakistan,oronto,1996,23-Sep-96,ODI # 1119
 127,11,4400,39.28,lost,v South Africa,Hyderabad,1996,17-Oct-96,ODI # 1127
 128,88,4488,39.71,won,v Australia,Bengaluru,1996,21-Oct-96,ODI # 1129
 129,64,4552,39.92,lost,v South Africa,Jaipur,1996,23-Oct-96,ODI # 1130
@@ -134,12 +134,12 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 132,67,4709,40.24,won,v South Africa,Wankhede,1996,6-Nov-96,ODI # 1138
 133,114,4823,40.87,won,v South Africa,Wankhede,1996,14-Dec-96,ODI # 1151
 134,0,4823,40.52,lost,v South Africa,Bloemfontein,1997,23-Jan-97,ODI # 1167
-135,6,4829,40.24,tied,v Zimbabwe,Paarl,1997,27-Jan-97,ODI # 1169
+135,6,4829,40.24,ied,v Zimbabwe,Paarl,1997,27-Jan-97,ODI # 1169
 136,1,4830,39.91,lost,v South Africa,Gqeberha,1997,2-Feb-97,ODI # 1172
 137,14,4844,39.7,lost,v South Africa,East London,1997,4-Feb-97,ODI # 1173
 138,41,4885,39.71,lost,v Zimbabwe,Centurion,1997,7-Feb-97,ODI # 1174
 139,104,4989,40.23,won,v Zimbabwe,Benoni,1997,9-Feb-97,ODI # 1175
-140,32,5021,40.16,n/r,v South Africa,Durban,1997,12-Feb-97,ODI # 1176
+140,32,5021,40.16,no result,v South Africa,Durban,1997,12-Feb-97,ODI # 1176
 141,45,5066,40.2,lost,v South Africa,Durban,1997,13-Feb-97,ODI # 1177
 142,13,5079,39.99,lost,v Zimbabwe,Bulawayo,1997,15-Feb-97,ODI # 1178
 143,44,5123,40.02,lost,v West Indies,Port of Spain,1997,26-Apr-97,ODI # 1200
@@ -150,19 +150,19 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 148,2,5317,40.28,lost,v Sri Lanka,Wankhede,1997,17-May-97,ODI # 1207
 149,4,5321,40,lost,v Pakistan,Chennai,1997,21-May-97,ODI # 1209
 150,21,5342,39.86,lost,v Sri Lanka,Colombo (RPS),1997,18-Jul-97,ODI # 1218
-151,TDNB,5342,39.86,n/r,v Pakistan,Colombo (SSC),1997,20-Jul-97,ODI # 1219
+151,0,5342,39.86,no result,v Pakistan,Colombo (SSC),1997,20-Jul-97,ODI # 1219
 152,28,5370,39.77,won,v Bangladesh,Colombo (SSC),1997,24-Jul-97,ODI # 1221
 153,53,5423,39.87,lost,v Sri Lanka,Colombo (RPS),1997,26-Jul-97,ODI # 1222
 154,27,5450,39.78,lost,v Sri Lanka,Colombo (RPS),1997,17-Aug-97,ODI # 1223
 155,6,5456,39.53,lost,v Sri Lanka,Colombo (RPS),1997,20-Aug-97,ODI # 1224
-156,27,5483,39.44,n/r,v Sri Lanka,Colombo (SSC),1997,23-Aug-97,ODI # 1225
+156,27,5483,39.44,no result,v Sri Lanka,Colombo (SSC),1997,23-Aug-97,ODI # 1225
 157,39,5522,39.44,lost,v Sri Lanka,Colombo (SSC),1997,24-Aug-97,ODI # 1226
-158,17,5539,39.28,won,v Pakistan,Toronto,1997,13-Sep-97,ODI # 1227
-159,25,5564,39.46,won,v Pakistan,Toronto,1997,14-Sep-97,ODI # 1228
-160,TDNB,5564,39.46,n/r,v Pakistan,Toronto,1997,17-Sep-97,ODI # 1229
-161,0,5564,39.18,won,v Pakistan,Toronto,1997,18-Sep-97,ODI # 1230
-162,6,5570,38.95,won,v Pakistan,Toronto,1997,20-Sep-97,ODI # 1231
-163,51,5621,39.03,lost,v Pakistan,Toronto,1997,21-Sep-97,ODI # 1232
+158,17,5539,39.28,won,v Pakistan,oronto,1997,13-Sep-97,ODI # 1227
+159,25,5564,39.46,won,v Pakistan,oronto,1997,14-Sep-97,ODI # 1228
+160,0,5564,39.46,no result,v Pakistan,oronto,1997,17-Sep-97,ODI # 1229
+161,0,5564,39.18,won,v Pakistan,oronto,1997,18-Sep-97,ODI # 1230
+162,6,5570,38.95,won,v Pakistan,oronto,1997,20-Sep-97,ODI # 1231
+163,51,5621,39.03,lost,v Pakistan,oronto,1997,21-Sep-97,ODI # 1232
 164,2,5623,38.77,lost,v Pakistan,Hyderabad,1997,28-Sep-97,ODI # 1233
 165,21,5644,38.65,won,v Pakistan,Karachi,1997,30-Sep-97,ODI # 1234
 166,7,5651,38.44,lost,v Pakistan,Lahore,1997,2-Oct-97,ODI # 1236
@@ -170,7 +170,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 168,3,5745,38.55,lost,v Pakistan,Sharjah,1997,14-Dec-97,ODI # 1262
 169,1,5746,38.3,lost,v West Indies,Sharjah,1997,16-Dec-97,ODI # 1264
 170,82,5828,38.85,won,v Sri Lanka,Guwahati,1997,22-Dec-97,ODI # 1267
-171,TDNB,5828,38.85,n/r,v Sri Lanka,Indore,1997,25-Dec-97,ODI # 1268
+171,0,5828,38.85,no result,v Sri Lanka,Indore,1997,25-Dec-97,ODI # 1268
 172,6,5834,38.63,lost,v Sri Lanka,Margao,1997,28-Dec-97,ODI # 1269
 173,54,5888,38.73,won,v Bangladesh,Dhaka,1998,10-Jan-98,ODI # 1271
 174,67,5955,38.92,won,v Pakistan,Dhaka,1998,11-Jan-98,ODI # 1273
@@ -191,11 +191,11 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 189,18,6707,39.92,lost,v Kenya,Gwalior,1998,28-May-98,ODI # 1336
 190,100,6807,40.51,won,v Kenya,Kolkata,1998,31-May-98,ODI # 1337
 191,65,6872,40.66,won,v Sri Lanka,Colombo (RPS),1998,19-Jun-98,ODI # 1338
-192,53,6925,40.73,n/r,v New Zealand,Colombo (RPS),1998,23-Jun-98,ODI # 1340
+192,53,6925,40.73,no result,v New Zealand,Colombo (RPS),1998,23-Jun-98,ODI # 1340
 193,17,6942,40.59,lost,v Sri Lanka,Colombo (SSC),1998,1-Jul-98,ODI # 1341
-194,TDNB,6942,40.59,n/r,v New Zealand,Colombo (SSC),1998,3-Jul-98,ODI # 1342
+194,0,6942,40.59,no result,v New Zealand,Colombo (SSC),1998,3-Jul-98,ODI # 1342
 195,128,7070,41.1,won,v Sri Lanka,Colombo (RPS),1998,7-Jul-98,ODI # 1344
-196,77,7147,41.31,lost,v Pakistan,Toronto,1998,20-Sep-98,ODI # 1353
+196,77,7147,41.31,lost,v Pakistan,oronto,1998,20-Sep-98,ODI # 1353
 197,127,7274,42.04,won,v Zimbabwe,Bulawayo,1998,26-Sep-98,ODI # 1354
 198,29,7303,41.97,won,v Zimbabwe,Bulawayo,1998,27-Sep-98,ODI # 1355
 199,2,7305,41.74,lost,v Zimbabwe,Harare,1998,30-Sep-98,ODI # 1356
@@ -206,22 +206,22 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 204,18,7593,42.41,won,v Sri Lanka,Sharjah,1998,9-Nov-98,ODI # 1370
 205,11,7604,42.24,lost,v Zimbabwe,Sharjah,1998,11-Nov-98,ODI # 1373
 206,124,7728,42.93,won,v Zimbabwe,Sharjah,1998,13-Nov-98,ODI # 1374
-207,0,7728,42.69,lost,v New Zealand,Taupo,1999,9-Jan-99,ODI # 1378
+207,0,7728,42.69,lost,v New Zealand,aupo,1999,9-Jan-99,ODI # 1378
 208,23,7751,42.58,won,v New Zealand,Napier,1999,12-Jan-99,ODI # 1381
-209,45,7796,42.6,n/r,v New Zealand,Wellington,1999,14-Jan-99,ODI # 1383
+209,45,7796,42.6,no result,v New Zealand,Wellington,1999,14-Jan-99,ODI # 1383
 210,5,7801,42.39,won,v New Zealand,Auckland,1999,16-Jan-99,ODI # 1385
 211,28,7829,42.31,lost,v South Africa,Hove,1999,15-May-99,ODI # 1444
 212,140,7969,43.07,won,v Kenya,Bristol,1999,23-May-99,ODI # 1457
-213,2,7971,42.85,won,v Sri Lanka,Taunton,1999,26-May-99,ODI # 1463
+213,2,7971,42.85,won,v Sri Lanka,aunton,1999,26-May-99,ODI # 1463
 214,22,7993,42.74,won,v England,Birmingham,1999,29-May-99,ODI # 1467
-215,0,7993,42.51,lost,v Australia,The Oval,1999,4-Jun-99,ODI # 1473
+215,0,7993,42.51,lost,v Australia,he Oval,1999,4-Jun-99,ODI # 1473
 216,45,8038,42.52,won,v Pakistan,Manchester,1999,8-Jun-99,ODI # 1476
 217,16,8054,42.38,lost,v New Zealand,Nottingham,1999,12-Jun-99,ODI # 1480
 218,14,8068,42.24,lost,v Australia,Galle,1999,23-Aug-99,ODI # 1486
 219,37,8105,42.21,lost,v Sri Lanka,Colombo (RPS),1999,25-Aug-99,ODI # 1487
 220,120,8225,42.61,won,v Sri Lanka,Colombo (SSC),1999,29-Aug-99,ODI # 1490
 221,85,8310,42.83,won,v Zimbabwe,Singapore,1999,4-Sep-99,ODI # 1493
-222,40,8350,42.82,n/r,v West Indies,Singapore,1999,7-Sep-99,ODI # 1495
+222,40,8350,42.82,no result,v West Indies,Singapore,1999,7-Sep-99,ODI # 1495
 223,0,8350,42.6,lost,v West Indies,Singapore,1999,8-Sep-99,ODI # 1496
 224,32,8382,42.54,lost,v New Zealand,Rajkot,1999,5-Nov-99,ODI # 1522
 225,186,8568,43.49,won,v New Zealand,Hyderabad,1999,8-Nov-99,ODI # 1523
@@ -274,7 +274,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 272,0,10461,43.4,lost,v West Indies,Harare,2001,7-Jul-01,ODI # 1734
 273,101,10562,43.64,lost,v South Africa,Johannesburg,2001,5-Oct-01,ODI # 1752
 274,38,10600,43.62,won,v South Africa,Centurion,2001,10-Oct-01,ODI # 1757
-275,DNB,10600,43.62,won,v Kenya,Bloemfontein,2001,12-Oct-01,ODI # 1758
+275,0,10600,43.62,won,v Kenya,Bloemfontein,2001,12-Oct-01,ODI # 1758
 276,3,10603,43.45,lost,v Kenya,Gqeberha,2001,17-Oct-01,ODI # 1761
 277,37,10640,43.42,lost,v South Africa,East London,2001,19-Oct-01,ODI # 1762
 278,146,10786,43.84,won,v Kenya,Paarl,2001,24-Oct-01,ODI # 1764
@@ -288,17 +288,17 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 286,34,11103,44.05,won,v West Indies,Bridgetown,2002,29-May-02,ODI # 1836
 287,65,11168,44.14,won,v West Indies,Port of Spain,2002,2-Jun-02,ODI # 1838
 288,1,11169,43.97,won,v England,Lord's,2002,29-Jun-02,ODI # 1848
-289,49,11218,43.99,won,v Sri Lanka,The Oval,2002,30-Jun-02,ODI # 1849
-290,105,11323,44.4,n/r,v England,Chester-le-Street,2002,4-Jul-02,ODI # 1851
+289,49,11218,43.99,won,v Sri Lanka,he Oval,2002,30-Jun-02,ODI # 1849
+290,105,11323,44.4,no result,v England,Chester-le-Street,2002,4-Jul-02,ODI # 1851
 291,19,11342,44.3,won,v Sri Lanka,Birmingham,2002,6-Jul-02,ODI # 1852
-292,36,11378,44.27,lost,v England,The Oval,2002,9-Jul-02,ODI # 1854
+292,36,11378,44.27,lost,v England,he Oval,2002,9-Jul-02,ODI # 1854
 293,113,11491,44.53,won,v Sri Lanka,Bristol,2002,11-Jul-02,ODI # 1855
 294,14,11505,44.42,won,v England,Lord's,2002,13-Jul-02,ODI # 1856
 295,7,11512,44.27,won,v Zimbabwe,Colombo (RPS),2002,14-Sep-02,ODI # 1876
 296,9,11521,44.31,won,v England,Colombo (RPS),2002,22-Sep-02,ODI # 1884
 297,16,11537,44.2,won,v South Africa,Colombo (RPS),2002,25-Sep-02,ODI # 1886
-298,DNB,11537,44.2,n/r,v Sri Lanka,Colombo (RPS),2002,29-Sep-02,ODI # 1888
-299,7,11544,44.22,n/r,v Sri Lanka,Colombo (RPS),2002,30-Sep-02,ODI # 1889
+298,0,11537,44.2,no result,v Sri Lanka,Colombo (RPS),2002,29-Sep-02,ODI # 1888
+299,7,11544,44.22,no result,v Sri Lanka,Colombo (RPS),2002,30-Sep-02,ODI # 1889
 300,0,11544,44.06,won,v New Zealand,Wellington,2003,8-Jan-03,ODI # 1930
 301,1,11545,43.89,won,v New Zealand,Auckland,2003,11-Jan-03,ODI # 1933
 302,1,11546,43.73,lost,v New Zealand,Hamilton,2003,14-Jan-03,ODI # 1935
@@ -313,7 +313,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 311,15,12132,44.43,won,v New Zealand,Centurion,2003,14-Mar-03,ODI # 1988
 312,83,12215,44.58,won,v Kenya,Durban,2003,20-Mar-03,ODI # 1992
 313,4,12219,44.43,lost,v Australia,Johannesburg,2003,23-Mar-03,ODI # 1993
-314,48,12267,44.6,n/r,v New Zealand,Chennai,2003,23-Oct-03,ODI # 2051
+314,48,12267,44.6,no result,v New Zealand,Chennai,2003,23-Oct-03,ODI # 2051
 315,100,12367,44.8,won,v Australia,Gwalior,2003,26-Oct-03,ODI # 2052
 316,68,12435,44.89,lost,v Australia,Wankhede,2003,1-Nov-03,ODI # 2054
 317,14,12449,44.78,lost,v New Zealand,Cuttack,2003,6-Nov-03,ODI # 2056
@@ -361,9 +361,9 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 359,42,14051,44.18,won,v Pakistan,Rawalpindi,2006,11-Feb-06,ODI # 2327
 360,95,14146,44.34,won,v Pakistan,Lahore,2006,13-Feb-06,ODI # 2329
 361,0,14146,44.2,won,v Pakistan,Multan,2006,16-Feb-06,ODI # 2331
-362,2,14148,44.21,n/r,v Sri Lanka,Colombo (SSC),2006,18-Aug-06,ODI # 2405
+362,2,14148,44.21,no result,v Sri Lanka,Colombo (SSC),2006,18-Aug-06,ODI # 2405
 363,141,14289,44.65,lost,v West Indies,Kuala Lumpur,2006,14-Sep-06,ODI # 2414
-364,12,14301,44.55,n/r,v Australia,Kuala Lumpur,2006,16-Sep-06,ODI # 2416
+364,12,14301,44.55,no result,v Australia,Kuala Lumpur,2006,16-Sep-06,ODI # 2416
 365,65,14366,44.61,won,v West Indies,Kuala Lumpur,2006,20-Sep-06,ODI # 2419
 366,4,14370,44.48,lost,v Australia,Kuala Lumpur,2006,22-Sep-06,ODI # 2421
 367,35,14405,44.45,won,v England,Jaipur,2006,15-Oct-06,ODI # 2429
@@ -377,7 +377,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 375,0,14568,43.87,won,v West Indies,Cuttack,2007,24-Jan-07,ODI # 2485
 376,60,14628,43.92,lost,v West Indies,Chennai,2007,27-Jan-07,ODI # 2487
 377,100,14728,44.22,won,v West Indies,Vadodara,2007,31-Jan-07,ODI # 2493
-378,TDNB,14728,44.22,n/r,v Sri Lanka,Kolkata,2007,8-Feb-07,ODI # 2514
+378,0,14728,44.22,no result,v Sri Lanka,Kolkata,2007,8-Feb-07,ODI # 2514
 379,54,14782,44.25,lost,v Sri Lanka,Rajkot,2007,11-Feb-07,ODI # 2520
 380,1,14783,44.12,won,v Sri Lanka,Margao,2007,14-Feb-07,ODI # 2522
 381,7,14790,44.01,lost,v Bangladesh,Port of Spain,2007,17-Mar-07,ODI # 2538
@@ -392,9 +392,9 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 390,8,15175,44.11,lost,v England,Birmingham,2007,27-Aug-07,ODI # 2616
 391,55,15230,44.14,lost,v England,Manchester,2007,30-Aug-07,ODI # 2617
 392,71,15301,44.22,won,v England,Leeds,2007,2-Sep-07,ODI # 2618
-393,94,15395,44.36,won,v England,The Oval,2007,5-Sep-07,ODI # 2619
+393,94,15395,44.36,won,v England,he Oval,2007,5-Sep-07,ODI # 2619
 394,30,15425,44.32,lost,v England,Lord's,2007,8-Sep-07,ODI # 2620
-395,0,15425,44.19,n/r,v Australia,Bengaluru,2007,29-Sep-07,ODI # 2621
+395,0,15425,44.19,no result,v Australia,Bengaluru,2007,29-Sep-07,ODI # 2621
 396,16,15441,44.11,lost,v Australia,Kochi,2007,2-Oct-07,ODI # 2623
 397,43,15484,44.11,lost,v Australia,Hyderabad,2007,5-Oct-07,ODI # 2625
 398,79,15563,44.21,won,v Australia,Chandigarh,2007,8-Oct-07,ODI # 2627
@@ -406,8 +406,8 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 404,29,15835,44.23,won,v Pakistan,Kanpur,2007,11-Nov-07,ODI # 2645
 405,97,15932,44.37,won,v Pakistan,Gwalior,2007,15-Nov-07,ODI # 2646
 406,30,15962,44.33,lost,v Pakistan,Jaipur,2007,18-Nov-07,ODI # 2647
-407,10,15972,44.24,n/r,v Australia,Brisbane,2008,3-Feb-08,ODI # 2670
-408,35,16007,44.21,n/r,v Sri Lanka,Brisbane,2008,5-Feb-08,ODI # 2672
+407,10,15972,44.24,no result,v Australia,Brisbane,2008,3-Feb-08,ODI # 2670
+408,35,16007,44.21,no result,v Sri Lanka,Brisbane,2008,5-Feb-08,ODI # 2672
 409,44,16051,44.21,won,v Australia,Melbourne,2008,10-Feb-08,ODI # 2675
 410,32,16083,44.18,lost,v Sri Lanka,Canberra,2008,12-Feb-08,ODI # 2676
 411,5,16088,44.07,lost,v Australia,Adelaide,2008,17-Feb-08,ODI # 2680
@@ -422,13 +422,13 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 420,6,16433,44.05,won,v Sri Lanka,Colombo (RPS),2009,31-Jan-09,ODI # 2810
 421,7,16440,43.95,won,v Sri Lanka,Colombo (RPS),2009,3-Feb-09,ODI # 2813
 422,20,16460,43.89,won,v New Zealand,Napier,2009,3-Mar-09,ODI # 2821
-423,61,16521,43.93,n/r,v New Zealand,Wellington,2009,6-Mar-09,ODI # 2822
+423,61,16521,43.93,no result,v New Zealand,Wellington,2009,6-Mar-09,ODI # 2822
 424,163,16684,44.37,won,v New Zealand,Christchurch,2009,8-Mar-09,ODI # 2823
 425,46,16730,44.37,won,v New Zealand,Colombo (RPS),2009,11-Sep-09,ODI # 2886
 426,27,16757,44.33,lost,v Sri Lanka,Colombo (RPS),2009,12-Sep-09,ODI # 2887
 427,138,16895,44.57,won,v Sri Lanka,Colombo (RPS),2009,14-Sep-09,ODI # 2889
 428,8,16903,44.48,lost,v Pakistan,Centurion,2009,26-Sep-09,ODI # 2898
-429,TDNB,16903,44.48,n/r,v Australia,Centurion,2009,28-Sep-09,ODI # 2901
+429,0,16903,44.48,no result,v Australia,Centurion,2009,28-Sep-09,ODI # 2901
 430,14,16917,44.4,lost,v Australia,Vadodara,2009,25-Oct-09,ODI # 2913
 431,4,16921,44.29,won,v Australia,Nagpur,2009,28-Oct-09,ODI # 2915
 432,32,16953,44.26,won,v Australia,Delhi,2009,31-Oct-09,ODI # 2918
@@ -444,7 +444,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 442,7,17605,45.02,lost,v South Africa,Durban,2011,12-Jan-11,ODI # 3079
 443,24,17629,44.97,won,v South Africa,Johannesburg,2011,15-Jan-11,ODI # 3080
 444,28,17657,44.92,won,v Bangladesh,Mirpur,2011,19-Feb-11,ODI # 3100
-445,120,17777,45.11,tied,v England,Bengaluru,2011,27-Feb-11,ODI # 3110
+445,120,17777,45.11,ied,v England,Bengaluru,2011,27-Feb-11,ODI # 3110
 446,38,17815,45.1,won,v Ireland,Bengaluru,2011,6-Mar-11,ODI # 3121
 447,27,17842,45.05,won,v Netherlands,Delhi,2011,9-Mar-11,ODI # 3124
 448,111,17953,45.22,lost,v South Africa,Nagpur,2011,12-Mar-11,ODI # 3128
@@ -454,7 +454,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 452,18,18111,45.16,won,v Sri Lanka,Wankhede,2011,2-Apr-11,ODI # 3148
 453,2,18113,45.05,lost,v Australia,Melbourne,2012,5-Feb-12,ODI # 3231
 454,48,18161,45.06,won,v Sri Lanka,Perth,2012,8-Feb-12,ODI # 3233
-455,15,18176,44.99,tied,v Sri Lanka,Adelaide,2012,14-Feb-12,ODI # 3239
+455,15,18176,44.99,ied,v Sri Lanka,Adelaide,2012,14-Feb-12,ODI # 3239
 456,3,18179,44.88,lost,v Australia,Brisbane,2012,19-Feb-12,ODI # 3244
 457,22,18201,44.83,lost,v Sri Lanka,Brisbane,2012,21-Feb-12,ODI # 3246
 458,14,18215,44.75,lost,v Australia,Sydney,2012,26-Feb-12,ODI # 3250
