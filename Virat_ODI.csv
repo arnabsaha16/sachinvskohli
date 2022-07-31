@@ -6,21 +6,21 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 5,31,159,31.8,lost,v Sri Lanka,Colombo (RPS),2008,29-Aug-08,ODI # 2756
 6,2,161,32.2,won,v Sri Lanka,Colombo (RPS),2009,14-Sep-09,ODI # 2889
 7,16,177,29.5,lost,v Pakistan,Centurion,2009,26-Sep-09,ODI # 2898
-8,TDNB,177,29.5,no result,v Australia,Centurion,2009,28-Sep-09,ODI # 2901
+8,0,177,29.5,no result,v Australia,Centurion,2009,28-Sep-09,ODI # 2901
 9,79,256,42.66,won,v West Indies,Johannesburg,2009,30-Sep-09,ODI # 2904
 10,30,286,40.85,lost,v Australia,Vadodara,2009,25-Oct-09,ODI # 2913
 11,10,296,37,lost,v Australia,Mohali,2009,2-Nov-09,ODI # 2919
 12,27,323,35.88,won,v Sri Lanka,Rajkot,2009,15-Dec-09,ODI # 2932
 13,54,377,37.7,lost,v Sri Lanka,Nagpur,2009,18-Dec-09,ODI # 2933
 14,107,484,44,won,v Sri Lanka,Kolkata,2009,24-Dec-09,ODI # 2935
-15,TDNB,484,44,no result,v Sri Lanka,Delhi,2009,27-Dec-09,ODI # 2936
+15,0,484,44,no result,v Sri Lanka,Delhi,2009,27-Dec-09,ODI # 2936
 16,9,493,41.08,lost,v Sri Lanka,Mirpur,2010,5-Jan-10,ODI # 2938
 17,91,584,44.92,won,v Bangladesh,Mirpur,2010,7-Jan-10,ODI # 2939
 18,71,655,50.38,won,v Sri Lanka,Mirpur,2010,10-Jan-10,ODI # 2941
 19,102,757,58.23,won,v Bangladesh,Mirpur,2010,11-Jan-10,ODI # 2942
 20,2,759,54.21,lost,v Sri Lanka,Mirpur,2010,13-Jan-10,ODI # 2943
 21,31,790,52.66,won,v South Africa,Jaipur,2010,21-Feb-10,ODI # 2961
-22,DNB,790,52.66,won,v South Africa,Gwalior,2010,24-Feb-10,ODI # 2962
+22,0,790,52.66,won,v South Africa,Gwalior,2010,24-Feb-10,ODI # 2962
 23,57,847,52.93,lost,v South Africa,Ahmedabad,2010,27-Feb-10,ODI # 2963
 24,0,847,49.82,lost,v Zimbabwe,Bulawayo,2010,28-May-10,ODI # 2981
 25,82,929,51.61,won,v Sri Lanka,Bulawayo,2010,30-May-10,ODI # 2983
@@ -110,12 +110,12 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 109,115,4493,49.37,won,v Zimbabwe,Harare,2013,24-Jul-13,ODI # 3395
 110,14,4507,48.98,won,v Zimbabwe,Harare,2013,26-Jul-13,ODI # 3397
 111,68,4575,49.72,won,v Zimbabwe,Harare,2013,28-Jul-13,ODI # 3399
-112,DNB,4575,49.72,won,v Zimbabwe,Bulawayo,2013,1-Aug-13,ODI # 3402
-113,DNB,4575,49.72,won,v Zimbabwe,Bulawayo,2013,3-Aug-13,ODI # 3403
+112,0,4575,49.72,won,v Zimbabwe,Bulawayo,2013,1-Aug-13,ODI # 3402
+113,0,4575,49.72,won,v Zimbabwe,Bulawayo,2013,3-Aug-13,ODI # 3403
 114,61,4636,49.84,lost,v Australia,Pune,2013,13-Oct-13,ODI # 3419
 115,100,4736,50.92,won,v Australia,Jaipur,2013,16-Oct-13,ODI # 3420
 116,68,4804,51.1,lost,v Australia,Mohali,2013,19-Oct-13,ODI # 3421
-117,DNB,4804,51.1,no result,v Australia,Ranchi,2013,23-Oct-13,ODI # 3422
+117,0,4804,51.1,no result,v Australia,Ranchi,2013,23-Oct-13,ODI # 3422
 118,115,4919,52.32,won,v Australia,Nagpur,2013,30-Oct-13,ODI # 3424
 119,0,4919,51.77,won,v Australia,Bengaluru,2013,2-Nov-13,ODI # 3428
 120,86,5005,52.13,won,v West Indies,Kochi,2013,21-Nov-13,ODI # 3436
@@ -123,7 +123,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 122,19,5123,52.27,won,v West Indies,Kanpur,2013,27-Nov-13,ODI # 3439
 123,31,5154,52.06,lost,v South Africa,Johannesburg,2013,5-Dec-13,ODI # 3442
 124,0,5154,51.54,lost,v South Africa,Durban,2013,8-Dec-13,ODI # 3443
-125,TDNB,5154,51.54,no result,v South Africa,Centurion,2013,11-Dec-13,ODI # 3444
+125,0,5154,51.54,no result,v South Africa,Centurion,2013,11-Dec-13,ODI # 3444
 126,123,5277,52.24,lost,v New Zealand,Napier,2014,19-Jan-14,ODI # 3456
 127,78,5355,52.5,lost,v New Zealand,Hamilton,2014,22-Jan-14,ODI # 3458
 128,6,5361,52.04,tied,v New Zealand,Auckland,2014,25-Jan-14,ODI # 3462
@@ -132,7 +132,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 131,136,5581,52.65,won,v Bangladesh,Fatullah,2014,26-Feb-14,ODI # 3474
 132,48,5629,52.6,lost,v Sri Lanka,Fatullah,2014,28-Feb-14,ODI # 3476
 133,5,5634,52.16,lost,v Pakistan,Mirpur,2014,2-Mar-14,ODI # 3479
-134,DNB,5634,52.16,won,v Afghanistan,Mirpur,2014,5-Mar-14,ODI # 3483
+134,0,5634,52.16,won,v Afghanistan,Mirpur,2014,5-Mar-14,ODI # 3483
 135,0,5634,51.68,won,v England,Cardiff,2014,27-Aug-14,ODI # 3517
 136,40,5674,51.58,won,v England,Nottingham,2014,30-Aug-14,ODI # 3520
 137,1,5675,51.59,won,v England,Birmingham,2014,2-Sep-14,ODI # 3523
@@ -235,7 +235,7 @@ MatchNumber,Runs,CumulativeRuns,BattingAverage,Result,Opposition,Ground,Year,Dat
 234,26,11251,59.52,won,v Bangladesh,Birmingham,2019,2-Jul-19,ODI # 4182
 235,34,11285,59.7,won,v Sri Lanka,Leeds,2019,6-Jul-19,ODI # 4187
 236,1,11286,59.4,lost,v New Zealand,Manchester,2019,9-Jul-19,ODI # 4190
-237,TDNB,11286,59.4,no result,v West Indies,Providence,2019,8-Aug-19,ODI # 4196
+237,0,11286,59.4,no result,v West Indies,Providence,2019,8-Aug-19,ODI # 4196
 238,120,11406,59.71,won,v West Indies,Port of Spain,2019,11-Aug-19,ODI # 4197
 239,114,11520,60.31,won,v West Indies,Port of Spain,2019,14-Aug-19,ODI # 4199
 240,4,11524,60.02,lost,v West Indies,Chennai,2019,15-Dec-19,ODI # 4221
